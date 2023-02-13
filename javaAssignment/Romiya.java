@@ -3,7 +3,6 @@ public class Romiya{
     {
         
         System.out.println("\nName of the organization: Canvas Corner");
-       
         System.out.println("\nAddress:");
         System.out.println("----State: KM");
         System.out.println("----Zip Code: 131300");
