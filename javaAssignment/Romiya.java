@@ -19,7 +19,7 @@ public class Romiya{
 }
 
 
-public class Romiya{
+/*public class Romiya{
     public static void main(String[] args)
     {
         System.out.println("\nName of the organization: Canvas Corner");
@@ -32,5 +32,5 @@ public class Romiya{
         System.out.println("----Email: canvas13@gmail.com");
         System.out.println("\n"); 
     }
-}
+}*/
 
