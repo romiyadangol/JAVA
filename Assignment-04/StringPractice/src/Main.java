@@ -8,9 +8,6 @@ public class Main {
 
         Triangle obj = new Triangle(3,4,5);
         obj.Perimeter();
-
-       Triangle obj1 = new Triangle(3,4,5);
-       obj1.Area();
-
+        obj.Area();
     }
 }
