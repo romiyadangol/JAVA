@@ -4,6 +4,7 @@
 
 public class Main {
     public static void main(String[] args) {
+
         Student obj = new Student("John",2);
         obj.Student();
     }
